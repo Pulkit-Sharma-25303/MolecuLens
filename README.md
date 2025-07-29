@@ -267,7 +267,7 @@ results = search_chembl_by_target("EGFR", limit=100)
 
 ## Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions!
 
 ### Development Setup
 1. Fork the repository
@@ -281,23 +281,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - Include system information
 - Describe steps to reproduce
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Citation
-
-If you use MolecuLens in your research, please cite:
-
-```bibtex
-@software{moleculens2024,
-  title={MolecuLens: AI-Powered Drug Discovery Platform},
-  author={MolecuLens Development Team},
-  year={2024},
-  url={https://github.com/your-repo/moleculens}
-}
-```
-
 
 ## Acknowledgments
 
@@ -309,7 +292,7 @@ If you use MolecuLens in your research, please cite:
 
 ## Changelog
 
-### Version 1.0.0 (2024)
+### Version 1.0.0 (2025)
 - Initial release
 - Complete drug discovery pipeline
 - Six main modules with comprehensive functionality
