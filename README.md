@@ -298,19 +298,6 @@ If you use MolecuLens in your research, please cite:
 }
 ```
 
-## Support
-
-### Documentation
-- [User Guide](docs/user_guide.md)
-- [API Documentation](docs/api_reference.md)
-- [Tutorials](docs/tutorials/)
-
-### Community
-- [GitHub Discussions](https://github.com/your-repo/moleculens/discussions)
-- [Issue Tracker](https://github.com/your-repo/moleculens/issues)
-
-### Commercial Support
-For commercial support and custom development, contact: support@moleculens.com
 
 ## Acknowledgments
 
